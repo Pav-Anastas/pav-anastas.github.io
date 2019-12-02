@@ -28,11 +28,11 @@ github_username: Pav-Anastas
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: true
 search_full_content: false # true, false (default)
-search_provider: # lunr (default), algolia
+search_provider: algolia
 algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  application_id: SCXMJM2W32
+  index_name: web_Pav-anastas
+  search_only_api_key: fac446222fe7895ff28cc6d4502edb46
   powered_by: # true (default), false
   
 # Analytics

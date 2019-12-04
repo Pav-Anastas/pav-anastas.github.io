@@ -1,8 +1,8 @@
 ---
-title: Curriculum Vitae
+title: Curriculum Vitæ
 layout: cv
 actions:
- - label:"Download as PDF"
-   icon: pdf
-   url: ""
+  - label: "Download as PDF"
+    icon: pdf
+    url: ""
 ---

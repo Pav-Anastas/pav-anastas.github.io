@@ -42,7 +42,6 @@ google_analytics: UA-153671896-1
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins: # previsously gems
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate

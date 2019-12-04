@@ -4,10 +4,10 @@
   "basics": {
     "name": "Pavlos Anastasiadis",
     "label": "Programmer",
-    "picture": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology Management and Organisational Change.",
+    "picture": "",
     "email": "paul.anast97@outlook.com",
     "website": "https://pav-anastas.github.io",
-    "summary": "A summary of John Doe...",
+    "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology Management and Organisational Change.",
     "location": {
     },
     "profiles": [
@@ -49,8 +49,8 @@
     "institution": "Lancaster University",
     "area": "Computer Science",
     "studyType": "Bachelor",
-    "startDate": "01-10-2015",
-    "endDate": "29-06-2018",
+    "startDate": "2015-10-01",
+    "endDate": "2018-06-29",
     
     "courses": [
       
@@ -65,7 +65,7 @@
   "publications": [{
     "name": "About my degree: ITMOC",
     "publisher": "Lancaster University Management School",
-    "releaseDate": "18-10-2019",
+    "releaseDate": "2019-10-18",
     "website": "http://wp.lancs.ac.uk/lums/owt/1871",
     "summary": ""
   }],

@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-layout:cv
+layout: cv
 actions:
  - label:"Download as PDF"
    icon: pdf

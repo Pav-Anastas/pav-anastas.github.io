@@ -4,7 +4,7 @@
   "basics": {
     "name": "Pavlos Anastasiadis",
     "label": "Programmer",
-    "picture": "",
+    "picture": "https://www.gravatar.com/avatar/cf709759dbe82b5089b77aa474b7c0c7",
     "email": "paul.anast97@outlook.com",
     "website": "https://pav-anastas.github.io",
     "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology Management and Organisational Change.",
@@ -24,14 +24,13 @@
                 ]
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "Lancaster University Management School",
+    "position": "Student Ambassador",
+    "startDate": "2018-11-01",
+    "endDate": "2019-09-31",
+    "summary": "I was a",
     "highlights": [
-      "Started the company"
+      "After a couple of months of working the recruitment team trusted me with delivering online seminars on my own and with writing the blogpost for my correspondent course."
     ]
   }],
   "volunteer": [{
@@ -48,9 +47,20 @@
   "education": [{
     "institution": "Lancaster University",
     "area": "Computer Science",
-    "studyType": "Bachelor",
+    "studyType": "Bachelors",
     "startDate": "2015-10-01",
     "endDate": "2018-06-29",
+    
+    "courses": [
+      
+    ]
+  },
+               {
+    "area": "Information Technology Management and Organisational Change",
+    "studyType": "Masters",
+    "startDate": "2018-10-01",
+    "endDate": "2019-06-29",
+    "institution": "Lancaster University",
     
     "courses": [
       

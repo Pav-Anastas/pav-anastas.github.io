@@ -1,13 +1,13 @@
 {   
-  "meta": { "theme": "elegant" },
+  "meta": { "theme": "flat" },
 
   "basics": {
     "name": "Pavlos Anastasiadis",
-    "label": "Programmer",
+    "label": "Tech Person",
     "picture": "https://www.gravatar.com/avatar/cf709759dbe82b5089b77aa474b7c0c7",
     "email": "paul.anast97@outlook.com",
     "website": "https://pav-anastas.github.io",
-    "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology Management and Organisational Change.",
+    "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology, Management and Organisational Change.Passionate about the emerging technologies and their effects on organisation. From my exposure to different environments I am comfortable with wearing many hats as I find crucial to being flexible when collaborating with others.",
     "location": {
     },
     "profiles": [
@@ -28,21 +28,50 @@
     "position": "Student Ambassador",
     "startDate": "2018-11-01",
     "endDate": "2019-09-31",
-    "summary": "I was a",
+    "summary": "As a student ambassador I worked for the recruiting team of Lancaster University´s Management School, which is responsible of reaching out to prospective students and assisting with their applications and integration to the University environment",
     "highlights": [
-      "After a couple of months of working the recruitment team trusted me with delivering online seminars on my own and with writing the blogpost for my correspondent course."
+      "After a couple of months of working the recruitment team trusted me with delivering online seminars on my own and with writing the blog-post for my correspondent course",
+      "I had the opportunity to develop commercial awareness. Although my employer encouraged to be truthful throughout my interactions with prospective students, they appreciated my ability to convey enthusiasm and pride in regard to my school and what it had to offer."
     ]
   }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
+  "volunteer": [
+      { 
+        "organization": "Cartmel College",
+        "position": "Freshers' rep",
+        "website": "https://www.lancaster.ac.uk/welcome/welcome-week/",
+        "startDate": "2016-10-01",
+        "endDate": "2017-06-29",
+        "summary": "As a freshers' rep you represent your college and your university as you facilitate the introduction and integration of a group of first years.",
+        "highlights": 
+        [
+          "The first week, known as freshers’ week, seems the most daunting as I needed to act as guide and a friend for a large amount of people simultaneously. However, it also taught a lot of freshers’ reps how to improvise and cooperate as well as how to lead newly formed teams."
+        ]
+  },
+    {
+        "organization": "Lancaster University Student Union",
+        "position": "Academic rep",
+        "website": "https://lancastersu.co.uk/reps",
+        "startDate": "2018-11-01",
+        "endDate": "2019-06-29",
+        "summary": "Academic reps are elected students that work for the student union. As an academic rep you serve as the communication channel between your classmates and the department, passing thoughts, concerns and requests as well as campaigning for the improvement of the student body experience. ",
+        "highlights":
+        [
+          "Participating in forums with academic reps of other departments and debating on the ideas and feedback we gathered.",
+          "Taking part in additional skill development classes which assisted me in doing my job better."
+        ]
+  },
+  {
+   "organization": "Bailrigg FM",
+        "position": "Radio Presenter",
+        "website": "https://bailriggradio.lancastersu.co.uk/",
+        "startDate": "2018-11-01",
+        "endDate": "2019-05-29",
+        "summary": "As a radio presenter I got to have my own show which was broadcasted live every week. I got to learn the ins and outs of a radio station as well as the technology that supports it.",
+        "highlights":[
+            "Getting trained in Ofcom regulations",
+            "Collaborating with other members to create events",
+            "Getting a first hand experience in media production"
+        ]
   }],
   "education": [{
     "institution": "Lancaster University",
@@ -50,27 +79,38 @@
     "studyType": "Bachelors",
     "startDate": "2015-10-01",
     "endDate": "2018-06-29",
-    
     "courses": [
+        "SCC. 205: Social, Ethical and Professional Issues in Computing - 60%",
+        "SCC. 210: Computer Science Group Project - 67%",
+        "SCC. 300: Third Year Project - 60%",
+        "SCC. 311: Distributed Systems - 65%",
+        "SCC. 306: Internet Applications Engineering 61% ",
+        "SCC. 361: Artificial Intelligence - 61%",
+        "SCC. 363: Security and Risk - 64%"
       
     ]
   },
                {
-    "area": "Information Technology Management and Organisational Change",
+    "area": "Information Technology, Management and Organisational Change",
     "studyType": "Masters",
     "startDate": "2018-10-01",
     "endDate": "2019-06-29",
-    "institution": "Lancaster University",
-    
-    "courses": [
-      
+    "institution": "Lancaster University", 
+    "courses": [ 
+        "ITO. 001: Information, Technology and Organisations - 60%",
+        "ITO. 003: Strategy, IT and Digital Business - 63%",
+        "ITO. 004: Systemic Interventions and Consulting - 64%",
+        "ITO. 005: Cyber Security and Enterprise Resilience: Social Aspects of the Digital Age – 58%",
+        "ITO. 007: IT Project Management – 55%",
+        "ITO. 013: Dissertation - 55%",
+        "MSCI 571: Strategic Supply Chain Management – 52%"   
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "Digital Skills Certificate",
+    "date": "2019-11-05",
+    "awarder": "Lancaster University",
+    "summary": "The certificate was awarded for attending extra-curricular training and assessments. Providing evidence of competencies across five areas: Digital Creation, Innovation and Scholarship; Information, Data and Media Literacies; Digital Identity and Wellbeing; Communication, Collaboration and Participation; and Digital Learning and Self Development. "
   }],
   "publications": [{
     "name": "About my degree: ITMOC",
@@ -81,13 +121,35 @@
   }],
   "skills": [{
     "name": "Web Development",
-    "level": "Master",
+    "level": "Junior",
     "keywords": [
       "HTML",
       "CSS",
-      "Javascript"
+      "Javascript",
+      "Markdown"
     ]
-  }],
+  },
+    {
+        "name":"Communication"
+    },
+            {
+        "name":"Dealing with conflict"
+    },
+    {
+        "name":"Leadership"
+    },
+    {
+        "name":"Planning"
+    },
+    {
+        "name":"Computer literacy"
+    },
+    {
+        "name":"Cultural sensibility"
+    },
+    {
+        "name":"Interpersonal skills"        
+    }],
   "languages": [
       {
     "language": "English",
@@ -98,16 +160,24 @@
     "fluency": " Native speaker"   
       }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
+  "interests": [
+        {
+        "name": "Sports",
+          "keywords": 
+          [
+              "Running",
+              "Cycling",
+              "Waterpolo"
+          ]
+      },
+      {
+        "name": "Drawing"
+      },
+      {
+        "name": "Public Speaking"
+      },
+      {
+        "name": "Digital Transformation"
+      }
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
-
 }

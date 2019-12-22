@@ -1,14 +1,16 @@
 {   
-  "meta": { "theme": "flat" },
+  "meta": { "theme": "elegant" },
 
   "basics": {
     "name": "Pavlos Anastasiadis",
-    "label": "Tech Person",
+    "label": "Management Graduate",
     "picture": "https://www.gravatar.com/avatar/cf709759dbe82b5089b77aa474b7c0c7",
     "email": "paul.anast97@outlook.com",
     "website": "https://pav-anastas.github.io",
     "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology, Management and Organisational Change.Passionate about the emerging technologies and their effects on organisation. From my exposure to different environments I am comfortable with wearing many hats as I find crucial to being flexible when collaborating with others.",
     "location": {
+        "city": "Thessaloniki",
+        "countryCode":"GR"
     },
     "profiles": [
     {
@@ -117,8 +119,15 @@
     "publisher": "Lancaster University Management School",
     "releaseDate": "2019-10-18",
     "website": "http://wp.lancs.ac.uk/lums/owt/1871",
-    "summary": ""
-  }],
+    "summary": "A blogpost for Lancaster University Management School"
+  },
+ {
+    "name": "Balkan Beats 29",
+    "publisher": "Balkan Hotspot",
+    "releaseDate": "2019-11-30",
+    "website": "https://issuu.com/united_societies_of_balkans/docs/balkanbeats29__2_",
+    "summary": "A drawing for the youth magazine Balkan Beats" 
+                  }],
   "skills": [{
     "name": "Web Development",
     "level": "Junior",

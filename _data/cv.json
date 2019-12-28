@@ -7,7 +7,7 @@
     "picture": "https://www.gravatar.com/avatar/cf709759dbe82b5089b77aa474b7c0c7",
     "email": "paul.anast97@outlook.com",
     "website": "https://pav-anastas.github.io",
-    "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology, Management and Organisational Change.Passionate about the emerging technologies and their effects on organisation. From my exposure to different environments I am comfortable with wearing many hats as I find crucial to being flexible when collaborating with others.",
+    "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology, Management and Organisational Change. Passionate about the emerging technologies and their effects on organisation. From my exposure to different environments I am comfortable with wearing many hats as I find crucial being flexible when collaborating with others.",
     "location": {
         "city": "Thessaloniki",
         "countryCode":"GR"
@@ -61,6 +61,12 @@
           "Participating in forums with academic reps of other departments and debating on the ideas and feedback we gathered.",
           "Taking part in additional skill development classes which assisted me in doing my job better."
         ]
+  },
+      {
+        "organization": "Lancaster University",
+        "position": "Representative",
+        "startDate": "2019-20-10",
+        "summary": "I was asked to assist Lancaster university by attending the QS (Quacquarelli Symonds) World Grad School Tour as an alumni and to speak with prospective students about what Lancaster university has to offer.",
   },
   {
    "organization": "Bailrigg FM",

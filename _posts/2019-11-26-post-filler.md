@@ -22,7 +22,7 @@ Also the search bar isn't working. Trying to figure out Algolia. Still.
 
 But your visit **isn't** in vain, here is some cute pictures my friend [Joe](https://instagram.com/joehabarnes?igshid=1oybo4eo5txcg) took.
 
-![Brown Doggo](({{ site.url }}{{ site.baseurl }}/assets/images/Wildlife/Doggo_1.jpg "Thirsty Boi")
+![Brown Doggo](/assets/images/Wildlife/Doggo_1.jpg "Thirsty Boi")
 
 ![Brown Doggo_2](/assets/images/Wildlife/Doggo_2.jpg "Brown Doggo")
 

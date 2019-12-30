@@ -24,6 +24,6 @@ But your visit **isn't** in vain, here is some cute pictures my friend [Joe](htt
 
 ![Brown Doggo](({{ site.url }}{{ site.baseurl }}/assets/images/Wildlife/Doggo_1.jpg "Thirsty Boi")
 
-![Brown Doggo_2](assets/images/Wildlife/Doggo_2.jpg "Brown Doggo")
+![Brown Doggo_2](/assets/images/Wildlife/Doggo_2.jpg "Brown Doggo")
 
-![Fur Doggos](assets/images/Wildlife/Sheepos.jpg "Fur Doggos")
+![Fur Doggos](/assets/images/Wildlife/Sheepos.jpg "Fur Doggos")

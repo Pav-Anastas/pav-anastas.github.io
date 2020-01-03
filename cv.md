@@ -4,5 +4,5 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: ""
+    url: "/assets/Pavlos_Anastasiadis_Cv.pdf"
 ---

@@ -19,7 +19,7 @@ github_username: Pav-Anastas
 logo: /assets/images/Logo.png
 search: true
 search_full_content: true
-search_provider: lurn, #algolia
+search_provider: lunr, #algolia
 #algolia:
   #application_id: SCXMJM2W32
   #index_name: web_Pav-anastas

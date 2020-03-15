@@ -18,13 +18,13 @@ twitter_username:
 github_username: Pav-Anastas
 logo: /assets/images/Logo.png
 search: true
-search_full_content: false # true, false (default)
-search_provider: algolia
-algolia:
-  application_id: SCXMJM2W32
-  index_name: web_Pav-anastas
-  search_only_api_key: fac446222fe7895ff28cc6d4502edb46
-  powered_by: # true (default), false
+search_full_content: true
+search_provider: lurn, #algolia
+#algolia:
+  #application_id: SCXMJM2W32
+  #index_name: web_Pav-anastas
+  #search_only_api_key: fac446222fe7895ff28cc6d4502edb46
+  #powered_by: # true (default), false
   
 # Analytics
 google_analytics: UA-153671896-1

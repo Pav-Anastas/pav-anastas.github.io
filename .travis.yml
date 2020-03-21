@@ -1,4 +1,12 @@
+# .travis.yml
 language: ruby
+cache: bundler
+before_install:
+  - gem install bundler
+script:
+  - bundle exec jekyll algolia
+branches:
+  only:
+    - master
 rvm:
- - 2.2
- - jruby
+ - 2.4

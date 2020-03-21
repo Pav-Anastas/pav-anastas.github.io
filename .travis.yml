@@ -3,9 +3,8 @@ language: ruby
 cache: bundler
 before_install:
   - gem install bundler
-  - gem install jekyll-algolia '~> 1.6'
 script:
-  - bundle exec jekyll algolia '~> 1.6'
+  - bundle exec jekyll algolia 
 branches:
   only:
     - master

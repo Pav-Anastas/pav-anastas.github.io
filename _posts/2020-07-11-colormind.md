@@ -20,12 +20,12 @@ Depending on how much you want to spend this step can change in complexity. If y
 
 Step 2: What is Colormind and how I use it.
 
-[Colormind](http://colormind.io/) is a colour scheme generator that uses [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) to learn colour styles from external references such as photographs, movies and popular art.
+[Colormind](http://colormind.io/) is a colour scheme generator that uses [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) to "learn" colour styles from external references such as photographs, movies and popular art.
 > Colormind.io
 
 In essence the algorithm collects colour schemes from lots of sources and recognises the specific colour structure of it's reference. Afterwards it creates a massive library of different pallets that are ready to be applied. Simple, right?
 
-Well yes but let's breakdown some of that procedure, starting with *colour structure*.
+Well yes, but let's breakdown some of that procedure, starting with _*colour structure*_.
 
 The palette consists of a light color, a dark color, main brand color and two highlight colors. The main color is in the center of the palette and has the largest impact on the overall look.
 > Colormind.io
@@ -54,4 +54,4 @@ overlay-color: white again
 
 You can assign to variables if they aren’t already assigned by adding the *!default* flag to the end of the value, so using Sass *!default* is like adding an “unless this is already assigned”
 
-For further Stylesheet and Sass information look [Here :)](https://sass-lang.com) 
+For further Stylesheet and Sass information look [Here :)](https://sass-lang.com)

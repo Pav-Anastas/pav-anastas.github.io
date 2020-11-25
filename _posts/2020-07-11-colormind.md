@@ -44,13 +44,13 @@ $border-color: rgba($text-color, 0.5) !default;
 $overlay-color: #fff !default;  
 ```
 Thus in our case we match
-base-color: Main brand colour
-text-color: Dark accent
-accent-color: Light accent
-background-color: Light shades
-code-background-color: Using white for clarity in code blocks
-border-color: a variety of our selected text colour
-overlay-color: white again
++  base-color: Main brand colour
++  text-color: Dark accent
++  accent-color: Light accent
++  background-color: Light shades
++  code-background-color: Using white for clarity in code blocks
++  border-color: a variety of our selected text colour
++  overlay-color: white again
 
 You can assign to variables if they aren’t already assigned by adding the *!default* flag to the end of the value, so using Sass *!default* is like adding an “unless this is already assigned”
 

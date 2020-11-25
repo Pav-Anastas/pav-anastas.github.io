@@ -52,6 +52,6 @@ Thus in our case we match
 +  border-color: a variety of our selected text colour
 +  overlay-color: white again
 
-You can assign to variables if they aren’t already assigned by adding the *!default* flag to the end of the value, so using Sass *!default* is like adding an “unless this is already assigned”
+You can assign variables if they aren’t already assigned by adding the *!default* flag to the end of the value, so using Sass *!default* is like adding an “unless this is already assigned”
 
 For further Stylesheet and Sass information look [Here :)](https://sass-lang.com)

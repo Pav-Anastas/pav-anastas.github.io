@@ -48,7 +48,7 @@
       "I was asked to assist Lancaster university by attending the QS (Quacquarelli Symonds) World Grad School Tour as an alumnus and to speak with prospective students about what Lancaster university has to offer."
     ]
   }],
-  "volunteering": [
+  "volunteer": [
     {
         "organization": "Lancaster University Student Union",
         "position": "Academic rep",
@@ -211,7 +211,7 @@
         "name": "Digital Transformation"
       }
     ],
-    "Online publications": [{
+    "publications": [{
       "name": "About my degree: ITMOC",
       "publisher": "Lancaster University Management School",
       "releaseDate": "2019-10-18",

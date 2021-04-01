@@ -2,10 +2,10 @@
 title: "Using Colormind to customise a website's theme"
 categories:
 - Web Development
-- Style Sheet Language
 - Design
 tags:
 - scss
+- Style Sheet Language
 ---
 
 ### Aesthetics are important
@@ -43,7 +43,7 @@ $code-background-color: #fff !default;
 $border-color: rgba($text-color, 0.5) !default;
 $overlay-color: #fff !default;  
 ```
-Thus in our case we match
+Thus in our case we match:
 +  base-color: Main brand colour
 +  text-color: Dark accent
 +  accent-color: Light accent

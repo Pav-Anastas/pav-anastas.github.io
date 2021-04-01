@@ -1,13 +1,13 @@
-{   
+{
   "meta": { "theme": "elegant" },
 
   "basics": {
     "name": "Pavlos Anastasiadis",
-    "label": "Management Graduate",
+    "label": "Data Analyst. Computer Science, Management Graduate",
     "picture": "https://www.gravatar.com/avatar/cf709759dbe82b5089b77aa474b7c0c7",
     "email": "paul.anast97@outlook.com",
     "website": "https://pav-anastas.github.io",
-    "summary": "I'm a recent Lancaster University graduate, with a bachelor's in Computer Science and a Masters' in Information Technology, Management and Organisational Change. Passionate about the emerging technologies and their effects on organisation. From my exposure to different environments I am comfortable with wearing many hats as I find crucial being flexible when collaborating with others.",
+    "summary": "IT Management studies graduate with expertise in computer science and data analytics. Proactive in developing opportunities demonstrated by entrepreneurship when collaborating with others to start up a B2B distribution-wholesale business.",
     "location": {
         "city": "Thessaloniki",
         "countryCode":"GR"
@@ -25,7 +25,18 @@
     }
                 ]
   },
-  "work": [{
+  "work": [
+    {
+      "company": "K.A.S. Private Company",
+      "position": "External Consultant",
+      "startDate": "2019-12-01",
+      "endDate": "Present",
+      "summary": "K.A.S. is a company that specialises in coffee distributionby implementing modern day supply chain methodologies such as integrated logistics and creating new communication channels like the KAS B2Bapp.",
+      "highlights": [
+        "Created the initial business strategy alongside the company's founder, Stylianos K. and planned pivot efforts tomitigate impact of COVID-19 which resulted in maintaining profits and the business' viability.",
+        "Leveraging data and conducting market research to assess opportunities for expansion within Greece and Europe."
+      ]
+    },{
     "company": "Lancaster University Management School",
     "position": "Student Ambassador",
     "startDate": "2018-11-01",
@@ -33,22 +44,11 @@
     "summary": "As a student ambassador I worked for the recruiting team of Lancaster University´s Management School, which is responsible of reaching out to prospective students and assisting with their applications and integration to the University environment",
     "highlights": [
       "After a couple of months of working the recruitment team trusted me with delivering online seminars on my own and with writing the blog-post for my correspondent course",
-      "I had the opportunity to develop commercial awareness. Although my employer encouraged to be truthful throughout my interactions with prospective students, they appreciated my ability to convey enthusiasm and pride in regard to my school and what it had to offer."
+      "I had the opportunity to develop commercial awareness. Although my employer encouraged to be truthful throughout my interactions with prospective students, they appreciated my ability to convey enthusiasm and pride in regard to my school and what it had to offer.",
+      "I was asked to assist Lancaster university by attending the QS (Quacquarelli Symonds) World Grad School Tour as an alumnus and to speak with prospective students about what Lancaster university has to offer."
     ]
   }],
-  "volunteer": [
-      { 
-        "organization": "Cartmel College",
-        "position": "Freshers' rep",
-        "website": "https://www.lancaster.ac.uk/welcome/welcome-week/",
-        "startDate": "2016-10-01",
-        "endDate": "2017-06-29",
-        "summary": "As a freshers' rep I represented my college and university as I facilitated the introduction and integration of a group of first years.",
-        "highlights": 
-        [
-          "The first week, known as freshers’ week, seems the most daunting as I needed to act as guide and a friend for a large amount of people simultaneously. However, it also taught a lot of freshers’ reps how to improvise and cooperate as well as how to lead newly formed teams."
-        ]
-  },
+  "volunteering": [
     {
         "organization": "Lancaster University Student Union",
         "position": "Academic rep",
@@ -62,12 +62,6 @@
           "Taking part in additional skill development classes which assisted me in doing my job better."
         ]
   },
-      {
-        "organization": "Lancaster University",
-        "position": "Representative",
-        "startDate": "2019-20-10",
-        "summary": "I was asked to assist Lancaster university by attending the QS (Quacquarelli Symonds) World Grad School Tour as an alumnus and to speak with prospective students about what Lancaster university has to offer.",
-  },
   {
    "organization": "Bailrigg FM",
         "position": "Radio Presenter",
@@ -80,38 +74,49 @@
             "Collaborating with other members to create events",
             "Getting a first hand experience in media production"
         ]
-  }],
-  "education": [{
+  },{
+    "organization": "Cartmel College",
+    "position": "Freshers' rep",
+    "website": "https://www.lancaster.ac.uk/welcome/welcome-week/",
+    "startDate": "2016-10-01",
+    "endDate": "2017-06-29",
+    "summary": "As a freshers' rep I represented my college and university as I facilitated the introduction and integration of a group of first years.",
+    "highlights":
+    [
+      "The first week, known as freshers’ week, was the most daunting as I needed to act as guide and a friend for a large amount of people simultaneously. However, it also taught a lot of freshers’ reps how to improvise and cooperate as well as how to lead newly formed teams."
+    ]
+}],
+  "education":[
+               {
+    "area": "Information Technology, Management and Organisational Change",
+    "studyType": "Masters",
+    "startDate": "2018-10-01",
+    "endDate": "2019-06-29",
+    "institution": "Lancaster University",
+    "courses": [
+        "Information, Technology and Organisations",
+        "Strategy, IT and Digital Business",
+        "Systemic Interventions and Consulting",
+        "Cyber Security and Enterprise Resilience: Social Aspects of the Digital Age",
+        "IT Project Management",
+        "Strategic Supply Chain Management",
+        "Knowledge Management and IT"
+    ]
+  },
+  {
     "institution": "Lancaster University",
     "area": "Computer Science",
     "studyType": "Bachelors",
     "startDate": "2015-10-01",
     "endDate": "2018-06-29",
     "courses": [
-        "SCC. 205: Social, Ethical and Professional Issues in Computing - 60%",
-        "SCC. 210: Computer Science Group Project - 67%",
-        "SCC. 300: Third Year Project - 60%",
-        "SCC. 311: Distributed Systems - 65%",
-        "SCC. 306: Internet Applications Engineering 61% ",
-        "SCC. 361: Artificial Intelligence - 61%",
-        "SCC. 363: Security and Risk - 64%"
-      
-    ]
-  },
-               {
-    "area": "Information Technology, Management and Organisational Change",
-    "studyType": "Masters",
-    "startDate": "2018-10-01",
-    "endDate": "2019-06-29",
-    "institution": "Lancaster University", 
-    "courses": [ 
-        "ITO. 001: Information, Technology and Organisations - 60%",
-        "ITO. 003: Strategy, IT and Digital Business - 63%",
-        "ITO. 004: Systemic Interventions and Consulting - 64%",
-        "ITO. 005: Cyber Security and Enterprise Resilience: Social Aspects of the Digital Age – 58%",
-        "ITO. 007: IT Project Management – 55%",
-        "ITO. 013: Dissertation - 55%",
-        "MSCI 571: Strategic Supply Chain Management – 52%"   
+        "Artificial Intelligence",
+        "Databases",
+        "Languages and Compilation",
+        "Security and Risk",
+        "Social, Ethical and Professional Issues in Computing",
+        "Computer Science Group Project"
+
     ]
   }],
   "awards": [{
@@ -120,20 +125,7 @@
     "awarder": "Lancaster University",
     "summary": "The certificate was awarded for attending extra-curricular training and assessments. Providing evidence of competencies across five areas: Digital Creation, Innovation and Scholarship; Information, Data and Media Literacies; Digital Identity and Wellbeing; Communication, Collaboration and Participation; and Digital Learning and Self Development. "
   }],
-  "publications": [{
-    "name": "About my degree: ITMOC",
-    "publisher": "Lancaster University Management School",
-    "releaseDate": "2019-10-18",
-    "website": "http://wp.lancs.ac.uk/lums/owt/1871",
-    "summary": "A blogpost for Lancaster University Management School"
-  },
- {
-    "name": "Balkan Beats 29",
-    "publisher": "Balkan Hotspot",
-    "releaseDate": "2019-11-30",
-    "website": "https://issuu.com/united_societies_of_balkans/docs/balkanbeats29__2_",
-    "summary": "A drawing for the youth magazine Balkan Beats" 
-                  }],
+
   "skills": [{
     "name": "Web Development",
     "level": "Junior",
@@ -145,25 +137,44 @@
     ]
   },
     {
-        "name":"Communication"
+        "name":"Data Analysis",
+        "keywords":[
+          "Python (Pandas, Matplotlib, seaborn)",
+          "Matlab",
+          "MYSQL",
+          "R",
+          "Excel"
+        ]
     },
             {
-        "name":"Dealing with conflict"
+        "name":"Presentation",
+        "keywords":[
+          "Power BI",
+          "Tableau",
+          "Word",
+          "PowerPoint",
+          "Adobe Premier"
+
+        ]
     },
     {
-        "name":"Leadership"
+        "name":"Development",
+        "keywords":[
+          "Java",
+          "C",
+          "C++",
+          "Python",
+          "Javascript"
+        ]
     },
     {
-        "name":"Planning"
-    },
-    {
-        "name":"Computer literacy"
+        "name":"Agile Development / Scrum"
     },
     {
         "name":"Cultural sensibility"
     },
     {
-        "name":"Interpersonal skills"        
+        "name":"Interpersonal skills"
     }],
   "languages": [
       {
@@ -172,17 +183,22 @@
       },
       {
     "language": "Greek",
-    "fluency": " Native speaker"   
-      }
+    "fluency": " Native speaker"
+  },
+  {
+    "language": "Dutch",
+    "fluency": "Elementary"
+  }
   ],
   "interests": [
         {
         "name": "Sports",
-          "keywords": 
+          "keywords":
           [
               "Running",
               "Cycling",
-              "Waterpolo"
+              "Waterpolo",
+              "Skiing"
           ]
       },
       {
@@ -194,5 +210,19 @@
       {
         "name": "Digital Transformation"
       }
-    ]
+    ],
+    "Online publications": [{
+      "name": "About my degree: ITMOC",
+      "publisher": "Lancaster University Management School",
+      "releaseDate": "2019-10-18",
+      "website": "http://wp.lancs.ac.uk/lums/owt/1871",
+      "summary": "A blogpost for Lancaster University Management School"
+    },
+   {
+      "name": "Balkan Beats 29",
+      "publisher": "Balkan Hotspot",
+      "releaseDate": "2019-11-30",
+      "website": "https://issuu.com/united_societies_of_balkans/docs/balkanbeats29__2_",
+      "summary": "A drawing for the youth magazine Balkan Beats"
+                    }]
 }

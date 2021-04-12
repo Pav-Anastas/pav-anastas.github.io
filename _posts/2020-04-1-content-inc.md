@@ -1,20 +1,20 @@
 ---
-title: "First Post"
+title: "Terms and Privacy Policy"
 categories:
- - Management
- - Consulting
- - Problem solving
+ - Privacy Policy
 tags:
- - Soft System
- - Testing
- - Article
+ - Cookies
+ - Log Files
 ---
 
-Soft Systems Methodology(SSM) was developed in England by academics at the Lancaster University Systems Department.
-As a Lancaster alumni who got introduced to the methodology while being there it seemed fitting that my first blog post would be about something that's close to home.
+## Privacy Policy
 
-'''
-Coming soon!
-'''
+The privacy of my visitors is extremely important. This Post outlines the types of personal information that is received and collected and how it is used.
+
+First and foremost, this website uses google analytics for diagnostics and user engagement. It reports website trends using cookies and web beacons without identifying individual visitors. For more information you can read the [Google Analytics Policy](https://policies.google.com/technologies/partner-sites)
+
+##Cookies and Web Beacons
+
+When you visit this site “convenience” cookies are stored on your computer. If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers’ websites.
 
 ![Korean Moonlight](/assets/images/SMM_Background.jpg "Sensing a summer breeze")

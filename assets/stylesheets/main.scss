@@ -8,3 +8,13 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+@media (prefers-color-scheme: dark) {
+        html  {
+          $background-color: #4E5D6B !default;
+          $base-color: #A1B7B5 !default;
+          $text-color:#32436A !default;
+          $accent-color:#7DCD85 !default;
+        }
+
+}

@@ -61,6 +61,7 @@ a:hover {
   justify-content: flex-end;
   line-height: 1.4;
   margin-top: calc(.5 * var(--line-height));
+  max-width: $text-width;
   width: 100%;
   min-height: var(--line-height);
   a, .nav-current-page {

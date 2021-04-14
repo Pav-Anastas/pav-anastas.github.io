@@ -10,7 +10,7 @@ email: paul.anast97@outlook.com
 description: An online Resume and Blog edited by Paul.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://pav-anastas.github.io
-author:
+author: 
   name: Pavlos Anastasiadis
   twitter:
   picture: /assets/images/pav-face375x300.jpg
@@ -25,9 +25,7 @@ algolia:
   index_name: web_Pav-anastas
   search_only_api_key: fac446222fe7895ff28cc6d4502edb46
   powered_by: # true (default), false
-after_footer_scripts     :
-  - assets/javascripts/cookie-consent.js
-
+  
 # Analytics
 google_analytics: UA-153671896-1
 
@@ -67,7 +65,7 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
-
+ 
 
 # Front Matter Defaults
 defaults:

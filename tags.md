@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: Writing
 description: "All of my blog posts sorted by tag"
 layout: default
 ---

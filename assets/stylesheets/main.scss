@@ -29,46 +29,6 @@
   }
 }
 
-.post-tagged p {
-  color: var(--light-text-color);
-  font-size: 1rem;
-  margin-top: calc(1.5 * var(--line-height));
-}
-
-.post-tagged a {
-    color: var(--light-text-color);
-    margin-right: 1%;
-    text-decoration: none;
-}
-
-.internal-link, .internal-link a {
-  color: var(--light-text-color);
-  font-size: 1rem;
-  text-decoration: none;
-}
-
-a:hover {
-  background-color: var(--box-background-color);
-  color: var(--link-color);
-  text-decoration: underline;
-  text-decoration-color: var(--link-color);
-}
-
-.site-nav {
-  border-bottom: 1px solid var(--light-border-color);
-  padding-bottom: calc(.3 * var(--line-height));
-  display: flex;
-  justify-content: flex-end;
-  line-height: 1.4;
-  margin-top: calc(.5 * var(--line-height));
-  max-width: $text-width;
-  width: 100%;
-  min-height: var(--line-height);
-  a, .nav-current-page {
-    margin: 0 0 0 5%;
-  }
-}
-
 @charset "utf-8";
 
 // Theme skin

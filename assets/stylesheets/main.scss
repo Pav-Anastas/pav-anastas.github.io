@@ -1,6 +1,33 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+.tag-list {
+  background-color: var(--main-background-color);
+  border: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 100%;
+  padding: 0;
+  a {
+    background-color: var(--box-background-color);
+    border: 1px solid var(--light-border-color);
+    flex-grow: .01;
+    font-size: var(--body-font-size);
+    font-variant-numeric: normal;
+    margin: 1% 2% 1% 0;
+    padding: .25em .75em .25em .55em;
+    text-decoration: none;
+  }
+  a:hover {
+    background-color: var(--main-background-color);
+  }
+}
+
+.posts-by-tag {
+  h2 {
+    padding-top: calc(2 * var(--line-height));
+  }
+}
 
 @charset "utf-8";
 

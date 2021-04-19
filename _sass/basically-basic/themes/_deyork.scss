@@ -5,7 +5,7 @@
 
 @media (prefers-color-scheme: dark){
   html{
-    --background-color: #1F1B24;
+    --background-color: #6C5E7D;
   }
 }
 @media (prefers-color-scheme: light) {
@@ -21,4 +21,4 @@ $accent-color: #7DCD85 !default;
 $background-color: var(--background-color);
 $code-background-color: #fff !default;
 $border-color: rgba($text-color, 0.5) !default;
-$overlay-color: var(--background-color);
+$overlay-color: #fff !default;

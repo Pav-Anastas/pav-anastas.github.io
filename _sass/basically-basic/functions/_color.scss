@@ -4,18 +4,18 @@
 
 /// Slightly lighten a color
 /// @access public
-/// @param {Color} $color.unquote - color to tint
+/// @param {Color} $color - color to tint
 /// @param {Number} $percentage - percentage of `$color` in returned color
 /// @return {Color}
 @function tint($color, $percentage) {
-  @return mix(#fff, $color, $percentage);
+  @return mix(#fff, unquote($color), $percentage);
 }
 
 /// Slightly darken a color
 /// @access public
-/// @param {Color} $color.unquote - color to shade
+/// @param {Color} $color - color to shade
 /// @param {Number} $percentage - percentage of `$color` in returned color
 /// @return {Color}
 @function shade($color, $percentage) {
-  @return mix(#000, $color, $percentage);
+  @return mix(#000, unquote($color), $percentage);
 }

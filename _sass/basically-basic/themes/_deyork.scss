@@ -2,14 +2,16 @@
     De York skin
    ======================================================================
 */
+
 @media (prefers-color-scheme: dark){
   html{
     --background-color: #bfc1c2;
   }
 }
-
+@media (prefers-color-scheme: light) {
 html{
   --background-color: #F5F7F8;
+  }
 }
 
 /* Colors */

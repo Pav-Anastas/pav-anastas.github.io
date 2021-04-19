@@ -11,6 +11,7 @@
   @if (type-of($color) == 'color'){
   .color-#{$name}{
     color: #{$color};
+    }
   }
   @return mix(#fff, $color, $percentage);
 }
@@ -24,6 +25,8 @@
   @if (type-of($color) == 'color'){
   .color-#{$name}{
     color: #{$color};
+    }
   }
+
   @return mix(#000, $color, $percentage);
 }

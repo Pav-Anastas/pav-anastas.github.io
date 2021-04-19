@@ -7,12 +7,14 @@
   html{
     --background-color: #1F1B24;
     --color: #6C5E7D;
+    --color: 108, 94, 125;
   }
 }
 @media (prefers-color-scheme: light) {
 html{
   --background-color: #F5F7F8;
   --color: #32436A;
+  --color: 50, 67, 106;
   }
 }
 

@@ -5,22 +5,18 @@
 
 @media (prefers-color-scheme: dark){
   html{
-    --background-color: #1F1B24;
-    --color: #6C5E7D;
-    --color: 108, 94, 125;
+    --background-color: #7C7D7D;
   }
 }
 @media (prefers-color-scheme: light) {
 html{
   --background-color: #F5F7F8;
-  --color: #32436A;
-  --color: 50, 67, 106;
   }
 }
 
 /* Colors */
 $base-color: #A1B7B5 !default;
-$text-color: var(--color);
+$text-color: #32436A;
 $accent-color: #7DCD85 !default;
 $background-color: var(--background-color);
 $code-background-color: #fff !default;

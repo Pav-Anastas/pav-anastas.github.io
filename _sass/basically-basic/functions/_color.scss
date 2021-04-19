@@ -4,7 +4,7 @@
 
 /// Slightly lighten a color
 /// @access public
-/// @param {Color} $color - color to tint
+/// @param {Color} $color.unquote - color to tint
 /// @param {Number} $percentage - percentage of `$color` in returned color
 /// @return {Color}
 @function tint($color, $percentage) {
@@ -13,7 +13,7 @@
 
 /// Slightly darken a color
 /// @access public
-/// @param {Color} $color - color to shade
+/// @param {Color} $color.unquote - color to shade
 /// @param {Number} $percentage - percentage of `$color` in returned color
 /// @return {Color}
 @function shade($color, $percentage) {
